@@ -16,14 +16,15 @@ nav_order: 1
 ## Projects
 
 ### Päiväkotisovellus
-React + Firebase -sovellus, joka helpottaa päiväkodin ja vanhempien välistä viestintää.
-- [Päiväkotivaatetus](lopputyo/index.html)
+React + Firebase application designed to simplify communication between daycare staff and parents
+- [Open App](lopputyo/index.html)
 
 
 ### Mountain Trail - webshop
-Aikaisemmin toteutettu staattinen HTML/CSS-sivusto vaellusreiteistä.
+A static HTML/CSS website showcasing hiking trails, created earlier as a personal project.
 - [Mountain Trail]()
 
 ### KiddoApp (Figma)
-Lasten päivähoitoon liittyvän palvelun prototyyppi.
+A prototype of a daycare service app, designed in Figma to improve communication and daily routines for parents and staff.
+
 - [KiddoApp](https://www.figma.com/design/SLyf7cDkV5dDwTes8TMfD5/KiddoApp?node-id=0-1&t=0pLAvLSoLi2qRnRL-1)
