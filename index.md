@@ -6,10 +6,12 @@ nav_order: 1
 
 # Kimmo Liikanen - Portfolio
 
+Hi! I’m Kimmo Liikanen, a second-year IT student at Haaga-Helia University of Applied Sciences. I have experience in sales and enjoy connecting with people. I am an energetic and optimistic person, always eager to learn new skills and take on challenges. In my studies and projects, I focus on creativity, problem-solving, and building practical solutions.
+
 
 ## CV
 
-[Download CV](Liikanen_Kimmo_CV.pdf)
+[Open CV - Kimmo Liikanen](Liikanen_Kimmo_CV.pdf)
 
 ---
 
