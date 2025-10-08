@@ -4,15 +4,6 @@ layout: default
 nav_order: 1
 ---
 
-# Kimmo Liikanen - Portfolio
-
-
-## CV
-
-[Download CV](Liikanen_Kimmo_CV.pdf)
-
----
-
 ## Projects
 
 ### Päiväkotisovellus
