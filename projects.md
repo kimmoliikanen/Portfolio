@@ -1,7 +1,7 @@
 ---
-title: Front Page
+title: Projects
 layout: default
-nav_order: 1
+nav_order: 4
 ---
 
 ## Projects
