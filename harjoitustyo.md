@@ -4,7 +4,7 @@ layout: default
 nav_order: 5
 ---
 
-# Harjoitustyö – Pukeutumisvinkki päiväkotiin
+# Testing rapport
 
 Tämä sovellus tarjoaa pukeutumisvinkkejä päiväkoti-ikäisille lapsille perustuen paikkakunnan sääennusteeseen. Tavoitteena on helpottaa vanhempien arkea ja varmistaa, että lapsi on pukeutunut sään mukaisesti. Sovelluksessa on käytössä OpenWeatherMapin säätieto, Firebase-kirjautuminen, Firestore-vinkkilista sekä yksinkertainen ja kevyt käyttöliittymä CSS:llä.
 
