@@ -6,8 +6,11 @@ nav_order: 1
 
 # Kimmo Liikanen - Portfolio
 
+---
+
 Hi! I’m Kimmo Liikanen, a second-year IT student at Haaga-Helia University of Applied Sciences. I have experience in sales and enjoy connecting with people. I am an energetic and optimistic person, always eager to learn new skills and take on challenges. In my studies and projects, I focus on creativity, problem-solving, and building practical solutions.
 
+---
 
 ## CV
 
@@ -30,3 +33,5 @@ A static HTML/CSS website showcasing hiking trails, created earlier as a persona
 A prototype of a daycare service app, designed in Figma to improve communication and daily routines for parents and staff.
 
 - [KiddoApp](https://www.figma.com/design/SLyf7cDkV5dDwTes8TMfD5/KiddoApp?node-id=0-1&t=0pLAvLSoLi2qRnRL-1)
+
+---
