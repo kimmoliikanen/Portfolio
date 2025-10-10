@@ -1,9 +1,4 @@
----
-layout: page
-title: Harjoitustyö
-permalink: /testausraportti/
-nav_order: 2
----
+
 
 # Harjoitustyö – Pukeutumisvinkki päiväkotiin
 
