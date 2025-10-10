@@ -27,7 +27,7 @@ React + Firebase application designed to simplify communication between daycare 
 
 ### Mountain Trail - webshop
 A static HTML/CSS website showcasing hiking trails, created earlier as a personal project.
-- [Mountain Trail]()
+- [Mountain Trail](https://kimmoliikanen.github.io/kimmoliikanen.github.io/mountain-trail/index.html)
 
 ### KiddoApp (Figma)
 A prototype of a daycare service app, designed in Figma to improve communication and daily routines for parents and staff.
