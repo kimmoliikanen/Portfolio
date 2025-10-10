@@ -6,6 +6,8 @@ nav_order: 4
 
 ## Projects
 
+---
+
 ### Daycare app
 React + Firebase application designed to simplify communication between daycare staff and parents. A school project developed as part of coursework.
 - [Päiväkotivaatetus](lopputyo/index.html)
