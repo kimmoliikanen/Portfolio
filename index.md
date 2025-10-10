@@ -18,7 +18,7 @@ Hi! I’m Kimmo Liikanen, a second-year IT student at Haaga-Helia University of 
 
 ## Projects
 
-### Daycare-app 
+### Daycare app 
 React + Firebase application designed to simplify communication between daycare staff and parents. A school project developed as part of coursework.
 
 - [Open App](lopputyo/index.html)

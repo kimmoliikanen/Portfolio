@@ -1,4 +1,8 @@
-
+---
+title: Testing rapport
+layout: default
+nav_order: 5
+---
 
 # Harjoitustyö – Pukeutumisvinkki päiväkotiin
 
