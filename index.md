@@ -1,5 +1,5 @@
 ---
-title: Front Page
+title: Portfolio
 layout: default
 nav_order: 1
 ---
