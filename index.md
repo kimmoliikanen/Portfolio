@@ -18,7 +18,7 @@ Hi! I’m Kimmo Liikanen, a second-year IT student at Haaga-Helia University of 
 
 ## Projects
 
-### Päiväkotisovellus
+### Daycare-app 
 React + Firebase application designed to simplify communication between daycare staff and parents. A school project developed as part of coursework.
 
 - [Open App](lopputyo/index.html)
@@ -32,7 +32,7 @@ Created as a school project to practice front-end development and responsive des
 
 - [Mountain Trail](https://kimmoliikanen.github.io/kimmoliikanen.github.io/mountain-trail/index.html)
 
-### KiddoApp (Figma)
+### KiddoApp (Figma-prototype)
 A prototype of a daycare service app, designed in Figma to improve communication and daily routines for parents and staff. Developed as a school project.
 
 - [KiddoApp](https://www.figma.com/design/SLyf7cDkV5dDwTes8TMfD5/KiddoApp?node-id=0-1&t=0pLAvLSoLi2qRnRL-1)
