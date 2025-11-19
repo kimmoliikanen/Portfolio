@@ -54,3 +54,10 @@ A prototype of a daycare service app, designed in Figma to improve communication
 
 
 ---
+
+### Weather Station – IoT Business Perspective (2024)
+
+- [Read the full project report (PDF)](//TEAM_AIR%20blog%20entry%20template.pdf)
+
+This project was part of the IoT Business Perspective course, where our team built a simple weather station prototype using an ESP32 microcontroller. Most of us were new to IoT and had no prior hands-on experience with microcontrollers, but we combined our diverse skills to learn the fundamentals of IoT development together.
+
