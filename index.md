@@ -8,7 +8,7 @@ nav_order: 1
 
 ---
 
-I’m Kimmo Liikanen, a second-year IT student at Haaga-Helia University of Applied Sciences. I have experience in sales and enjoy connecting with people. I am an energetic and optimistic person, always eager to learn new skills and take on challenges. In my studies and projects, I focus on creativity, problem-solving, and building practical solutions.
+I’m Kimmo Liikanen, an IT student at Haaga-Helia University of Applied Sciences, currently in the final stage of my studies. Energetic and solution-focused, I thrive in teamwork, communication, and problem-solving. Drawing on my background in sales and customer service, I bring a positive mindset and a strong track record of effectively leading and supporting teams.
 
 [LinkedIn - View my profile](https://www.linkedin.com/in/kimmoliikanen/)
 
