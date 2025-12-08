@@ -83,7 +83,7 @@ Sovellus on selkeä ja käytännöllinen arjen apuväline vanhemmille. Se toimii
 
 ## Katso julkaistu versio
 
-<iframe src="/kliikanen/lopputyo/index.html" width="100%" height="600px" style="border:none; border-radius:8px"></iframe> 
+<iframe src="./lopputyo/index.html" width="100%" height="600px" style="border:none; border-radius:8px"></iframe> 
 
-[→ Avaa sovellus selaimessa](https://kimmoliikanen.github.io/kliikanen/lopputyo/index.html)
+[→ Avaa sovellus selaimessa](/lopputyo/index.html)
 

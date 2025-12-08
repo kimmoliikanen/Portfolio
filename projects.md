@@ -18,7 +18,7 @@ React + Firebase application designed to simplify communication between daycare 
 - [View Full Project & Testing Report](harjoitustyo.md)
 
 
-<iframe src="/kliikanen/lopputyo/index.html" width="100%" height="450px" style="border:none; border-radius:8px"></iframe> 
+<iframe src="/Portfolio/lopputyo/index.html" width="100%" height="450px" style="border:none; border-radius:8px"></iframe> 
 
 
 ---
